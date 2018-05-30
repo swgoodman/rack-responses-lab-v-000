@@ -1,1 +1,6 @@
 
+class application
+
+
+
+end
